@@ -17,7 +17,7 @@ To compress the files into more efficient codecs (h264/NVENC and aac), put them 
 - FFmpeg (should be installed on Linux distros by default)
 
 ## Notes
-I am not an expert in FFmpeg, in fact I'm quite new, so if the quality of the output video is decreased in terms of visuals and/or audio, please let me know so I can look into making adjustments. You can contact me via Twitter [@FighterJurassic](https://twitter.com/FighterJurassic) or DM me on Discord **Jurassic#1119*. 
+I am not an expert in FFmpeg, in fact I'm quite new, so if the quality of the output video is decreased in terms of visuals and/or audio, please let me know so I can look into making adjustments. You can contact me via Twitter [@FighterJurassic](https://twitter.com/FighterJurassic) or DM me on Discord **Jurassic#1119**. 
 
 Similarly, if you have a suggestion as to how to improve the quality in FFmpeg, please let me know as well. These scripts are *extremely* basic, and so are very easy to modify if you need to output to a different directory, or change the FFmpeg settings.
 
